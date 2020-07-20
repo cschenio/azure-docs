@@ -112,7 +112,7 @@ You can also exclude files by using the `--exclude-path` option. To learn more, 
 
 #### Use wildcard characters
 
-Use the [azcopy copy](storage-ref-azcopy-copy.md) command with the `--include-pattern` option. Specify partial names that include the wildcard characters. Separate names by using a semicolin (`;`).
+Use the [azcopy copy](storage-ref-azcopy-copy.md) command with the `--include-pattern` option. Specify partial names that include the wildcard characters. Separate names by using a semicolon (`;`).
 
 |    |     |
 |--------|-----------|
@@ -183,8 +183,7 @@ You can specify complete file names, or use partial names with wildcard characte
 
 #### Specify multiple complete file names
 
-Use the [azcopy copy](storage-ref-azcopy-copy.md) command with the `--include-path` option. Separate individual file names by using a semicolin (`;`).
-
+Use the [azcopy copy](storage-ref-azcopy-copy.md) command with the `--include-path` option. Separate individual file names by using a semicolon (`;`).
 |    |     |
 |--------|-----------|
 | **Syntax** | `azcopy copy 'https://<storage-account-name>.file.core.windows.net/<file-share-or-directory-name><SAS-token>' '<local-directory-path>'  --include-path <semicolon-separated-file-list>` |
@@ -196,7 +195,7 @@ You can also exclude files by using the `--exclude-path` option. To learn more, 
 
 #### Use wildcard characters
 
-Use the [azcopy copy](storage-ref-azcopy-copy.md) command with the `--include-pattern` option. Specify partial names that include the wildcard characters. Separate names by using a semicolin (`;`).
+Use the [azcopy copy](storage-ref-azcopy-copy.md) command with the `--include-pattern` option. Specify partial names that include the wildcard characters. Separate names by using a semicolon (`;`).
 
 |    |     |
 |--------|-----------|
